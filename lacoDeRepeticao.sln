@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34723.18
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "lacoDeRepeticao", "lacoDeRepeticao\lacoDeRepeticao.csproj", "{78B6CD8E-3736-4C3F-B63E-C6AA0A25217C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{78B6CD8E-3736-4C3F-B63E-C6AA0A25217C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{78B6CD8E-3736-4C3F-B63E-C6AA0A25217C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{78B6CD8E-3736-4C3F-B63E-C6AA0A25217C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{78B6CD8E-3736-4C3F-B63E-C6AA0A25217C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E1F96068-1FE8-47FB-B322-69F15E44555E}
+	EndGlobalSection
+EndGlobal
